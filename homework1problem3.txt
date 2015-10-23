@@ -1,0 +1,2 @@
+3.It means Haskel is smart enough recognize the pattern of the list and
+then evaluate the infinite series to how many terms that are needed.
